@@ -24,7 +24,7 @@ int partition (int arr[], int low, int high)
     arr[high]=temp;
     return (i + 1);
 }
- 
+ YEs
 
 void quickSort(int arr[], int low, int high)
 {
