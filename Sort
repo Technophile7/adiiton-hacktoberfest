@@ -6,7 +6,7 @@ bool isPowerOf4(int n){
 }
 
 #include <iostream>
-using namespace std;
+using namespace std; #add hacktober
 
 int main() {
 	int n;
