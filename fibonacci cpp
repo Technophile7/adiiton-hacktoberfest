@@ -29,5 +29,5 @@ int main()
         
         cout << nextTerm << " ";
     }
-    return 0;
+    return 0;update
 }
